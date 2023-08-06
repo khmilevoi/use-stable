@@ -4,3 +4,4 @@ src
 .prettier.json
 jest.config.js
 rollup.config.js
+.idea
