@@ -13,7 +13,7 @@ The `useStable` hook takes two parameters:
 Here is a simple example of how you could use this hook:
 
 ```jsx
-import { useStable } from './useStable';
+import { useStable } from '@khmilevoi/use-stable';
 
 function MyComponent() {
     const stableObject = useStable(() => ({ prop: 'value' }), [dependency]);

@@ -1,6 +1,8 @@
 {
   "name": "@khmilevoi/use-stable",
   "version": "1.0.2",
+  "repository": "https://github.com/khmilevoi/use-stable",
+  "readme": "https://github.com/khmilevoi/use-stable/blob/main/README.md",
   "description": "useStable hook",
   "private": false,
   "main": "dist/index.js",
